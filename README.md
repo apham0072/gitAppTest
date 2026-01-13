@@ -1,9 +1,11 @@
 # gitAppTest
 testing GitHub App
 
-PR 4 
+PR 5
 
-PR 3
+PR 4 direct
+
+PR 3 direct
 
 PR 2
 
